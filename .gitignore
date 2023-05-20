@@ -134,3 +134,4 @@ Test_LAB
 
 #files
 ~$*.xlsx
+*.gitignore
