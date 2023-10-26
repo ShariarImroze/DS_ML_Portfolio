@@ -131,6 +131,7 @@ dmypy.json
 # Folders
 HackerRank/SS
 Test_LAB
+DATA_DO_NOT_UPLOAD
 
 #files
 ~$*.xlsx
